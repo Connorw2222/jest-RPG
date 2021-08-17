@@ -1,0 +1,23 @@
+{
+  "name": "jest-rpg",
+  "version": "1.0.0",
+  "description": "Learning about OOP and TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Connorw2222/jest-RPG.git"
+  },
+  "author": "Connor Werth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Connorw2222/jest-RPG/issues"
+  },
+  "homepage": "https://github.com/Connorw2222/jest-RPG#readme",
+  "devDependencies": {
+    
+    "jest": "^27.0.6"
+  }
+}
